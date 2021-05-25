@@ -47,10 +47,10 @@ CARDS COMMENTED OUT ABOVE -->
 ## Databases
 
 <a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="26" align="left"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" align="left"/>
 </a>
 <a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="26" align="left"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" align="left"/>
 </a>
 
 <br><br>
@@ -83,7 +83,7 @@ CARDS COMMENTED OUT ABOVE -->
 ## Frameworks
 
 <a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="26" align="left"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="50" align="left"/>
 </a>
 
 <br><br>
@@ -91,13 +91,13 @@ CARDS COMMENTED OUT ABOVE -->
 ## Other
 
 <a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="26" align="left"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" align="left"/>
 </a>
 <a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" align="left"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" align="left"/>
 </a>
 <a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="26" align="left"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="50" align="left"/>
 </a>
 
 

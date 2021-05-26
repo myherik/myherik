@@ -29,22 +29,22 @@ CARDS COMMENTED OUT ABOVE -->
   <tr>
     <td>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="center" alt="Java" width="26px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="center" alt="Java" width="50px" />
       </a>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="Javascript" width="26px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="Javascript" width="50px" />
       </a>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" alt="HTML" width="26px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" alt="HTML" width="50px" />
       </a>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" alt="CSS" width="26px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" alt="CSS" width="50px" />
       </a>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="center" alt="Matlab" width="26px" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="center" alt="Matlab" width="50px" />
       </a>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="26" align="center"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="50" align="center"/>
       </a>
     </td>
     <td align="center">
@@ -70,21 +70,21 @@ CARDS COMMENTED OUT ABOVE -->
   <tr>
     <td>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="26" align="center"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="50" align="center"/>
       </a>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="26" align="center"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="50" align="center"/>
       </a>
     </td>
     <td>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="26" align="center"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="50" align="center"/>
       </a>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="26" align="center"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="50" align="center"/>
       </a>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="26" align="center"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="50" align="center"/>
       </a>
     </td>
     <td>

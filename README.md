@@ -22,83 +22,85 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myherik&theme=synthwave&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 CARDS COMMENTED OUT ABOVE -->
 
-## Languages
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="left" alt="Java" width="26px" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="left" alt="Javascript" width="26px" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="left" alt="HTML" width="26px" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="left" alt="CSS" width="26px" />
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="left" alt="Matlab" width="26px" />
-</a>
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="26" align="left"/>
-</a>
+<table align="center">
+  <tr>
+    <th>Languages</th><th>Frameworks</th><th>Databases</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" align="center" alt="Java" width="26px" />
+      </a>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" align="center" alt="Javascript" width="26px" />
+      </a>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" align="center" alt="HTML" width="26px" />
+      </a>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" alt="CSS" width="26px" />
+      </a>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" align="center" alt="Matlab" width="26px" />
+      </a>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="26" align="center"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="50" align="center"/>
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" align="center"/>
+      </a>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" align="center"/>
+      </a>
+    </td>
+  </tr>
+  
+</table>
+<table align="center">
+  <tr>
+    <th>OS</th><th>IDE's</th><th>Other</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="26" align="center"/>
+      </a>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="26" align="center"/>
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="26" align="center"/>
+      </a>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="26" align="center"/>
+      </a>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="26" align="center"/>
+      </a>
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" align="center"/>
+      </a>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" align="center"/>
+      </a>
+      <a href="#">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="50" align="center"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-## Databases
-
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" align="left"/>
-</a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" align="left"/>
-</a>
-
-<br><br>
-
-## IDE's
-
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" width="26" align="left"/>
-</a>
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" width="26" align="left"/>
-</a>
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" width="26" align="left"/>
-</a>
-
-<br><br>
-
-## OS
-
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="26" align="left"/>
-</a>
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="windows" width="26" align="left"/>
-</a>
-
-<br><br>
-
-## Frameworks
-
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="node.js" width="50" align="left"/>
-</a>
-
-<br><br>
-
-## Other
-
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="50" align="left"/>
-</a>
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" align="left"/>
-</a>
-<a href="#">
-<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="50" align="left"/>
-</a>
 
 
 

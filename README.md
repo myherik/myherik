@@ -78,13 +78,13 @@ CARDS COMMENTED OUT ABOVE -->
     </td>
     <td>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="intellij" height="35px" align="center"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" height="35px" align="center"/>
       </a>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" alt="webstorm" height="35px" align="center"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" alt="webstorm" height="35px" align="center"/>
       </a>
       <a href="#">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="vs" height="35px" align="center"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs" height="35px" align="center"/>
       </a>
     </td>
     <td>

@@ -17,6 +17,8 @@
 - 🌱 I’m currently learning OS, linux, bash, Java, JS, networking and cloud computing
 - 💬 If I am your TA you can ask me for help on my student email or on canvas
 - 📫 How to reach me: s341867@oslomet.no
+
+[![Eriks GitHub stats](https://github-readme-stats.vercel.app/api?username=myherik&theme=synthwave&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![Eriks GitHub stats](https://github-readme-stats.vercel.app/api?username=myherik&theme=synthwave&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myherik&theme=synthwave&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)

@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning App development, webapplications, AI, Computer security
+- 🌱 I’m currently learning App development, webapplications, AI and Computer security
 - 💬 If I am your TA you can ask me for help on my student email or on canvas
 - 📫 How to reach me: s341867@oslomet.no
 

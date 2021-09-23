@@ -13,8 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on making a multiplayer snake game with node.js and socket.io
-- 🌱 I’m currently learning OS, linux, bash, Java, JS, networking and cloud computing
+- 🌱 I’m currently learning App development, webapplications, AI, Computer security
 - 💬 If I am your TA you can ask me for help on my student email or on canvas
 - 📫 How to reach me: s341867@oslomet.no
 

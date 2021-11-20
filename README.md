@@ -22,9 +22,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myherik&theme=synthwave&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 CARDS COMMENTED OUT ABOVE -->
 
-[![Eriks GitHub stats](https://github-readme-stats.vercel.app/api?username=myherik&theme=synthwave&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myherik&theme=synthwave&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-
 <table align="center">
   <tr>
     <th>Languages</th><th>Frameworks</th><th>Databases</th>

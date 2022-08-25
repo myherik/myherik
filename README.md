@@ -13,8 +13,9 @@
 - ⚡ Fun fact: ...
 - 💬 If I am your TA you can ask me for help on my student email or on canvas
 -->
-- 👨🏼‍🎓 I have a bachelors degree in Software Engineering from OsloMet
-- 🌱 I’m currently studying masters at NTNU
+- 👨🏼‍🎓 I have a bachelors degree in Software Engineering at OsloMet
+  - If you wish to check out my bachelors project for the Norwegian Meteorological Institute then see this repository <a href="https://github.com/myherik/Aerodrome_Warning_Traffic_Lights_Bachelor">Aerodrome Warning Traffic Lights</a> OR the repository at <a href="https://github.com/nicolaimol/Aerodrome_Warning_Traffic_Lights_Bachelor"> @nicolaimol </a>
+- 🌱 I’m currently studying a two-year masters degree at NTNU continuing my education
 - 📫 How to reach me: erikmyhr@stud.ntnu.no or myherik@gmail.com
 
 <!--

@@ -11,16 +11,15 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-- 🌱 I’m currently learning App development, webapplications, AI and Computer security
 - 💬 If I am your TA you can ask me for help on my student email or on canvas
-- 📫 How to reach me: s341867@oslomet.no
+-->
+- 👨🏼‍🎓 I have a bachelors degree in Software Engineering from OsloMet
+- 🌱 I’m currently studying masters at NTNU
+- 📫 How to reach me: erikmyhr@stud.ntnu.no or myherik@gmail.com
 
 <!--
 [![Eriks GitHub stats](https://github-readme-stats.vercel.app/api?username=myherik&theme=synthwave&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myherik&theme=synthwave&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
-CARDS COMMENTED OUT ABOVE -->
 
 <table align="center">
   <tr>
@@ -100,6 +99,10 @@ CARDS COMMENTED OUT ABOVE -->
     </td>
   </tr>
 </table>
+
+CARDS COMMENTED OUT ABOVE -->
+
+
 
 
 
